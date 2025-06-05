@@ -1,7 +1,12 @@
-Running in the 90's
-
-(Re)learning the three hourseman of front end
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+<h3 align="center">P4M</h3>
+<p align="center">Running in the 90's</p>
+<hr>
+<p align="center">(Re)learning the four horseman of front end</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git" />
+  </a>
+</p>
 
 <!--## Hi there 👋
 
