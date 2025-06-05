@@ -1,6 +1,11 @@
-## Hi there 👋
+Running in the 90's
 
-<!--
+(Re)learning the three hourseman of front end
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+<!--## Hi there 👋
+
+
 **P4M0FF/P4M0FF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
